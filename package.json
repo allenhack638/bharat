@@ -1,6 +1,7 @@
 {
   "name": "movix",
   "private": true,
+  "homepage": "https://allenhack638.github.io/bharat",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
